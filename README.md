@@ -1,2 +1,2 @@
 # js-hindi
-A  js repository in hindi
+A code repository for javascript in hindi
